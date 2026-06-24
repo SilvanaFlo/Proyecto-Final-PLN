@@ -1,4 +1,23 @@
+# Núcleo de Python
+numpy
+pandas
+
+# Procesamiento de lenguaje natural
+spacy
 sentence-transformers
 faiss-cpu
+
+# Manejo de PDFs
 pypdf
-numpy
+
+# Interfaz gráfica
+gradio
+
+# Utilidades
+scikit-learn
+regex
+es_core_news_sm
+
+# Manejo de JSON y fechas
+python-dateutil
+pytz
