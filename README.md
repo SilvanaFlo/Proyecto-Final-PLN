@@ -42,3 +42,6 @@ Respuesta:
 •	spacy
 •	pypdf
 •	numpy
+
+## Enlace al video de presentación
+https://canva.link/19k1x1vnpb4vbiv](https://drive.google.com/file/d/1TifKrEiFYgPDBRuwRxXC5BNkhm_PiUz3/view?usp=sharing)
